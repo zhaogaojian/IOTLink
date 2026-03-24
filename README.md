@@ -41,3 +41,8 @@
 面向 Windows 桌面（具体最低版本以你实际测试为准，建议写明 Windows 10 及以上）。
 基于 Qt 与 Qt MQTT 构建；发布包通常附带所需 Qt 运行库（以你实际打包方式为准）。
 需自行准备可访问的 MQTT Broker（如 Mosquitto、EMQX 等）。
+<img width="959" height="1078" alt="image" src="https://github.com/user-attachments/assets/4e63b1ef-8814-4765-b013-eb0a1fefdb20" />
+<img width="954" height="1085" alt="image" src="https://github.com/user-attachments/assets/c1b8a501-f95c-428f-87ce-2c49db419ded" />
+<img width="1920" height="1085" alt="image" src="https://github.com/user-attachments/assets/33368839-e75d-43a4-9861-da659e606fd2" />
+
+
