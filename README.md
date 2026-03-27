@@ -59,5 +59,5 @@ Client-side lightweight topic mapping and field rewriting for demonstrations or 
 Monitoring scenarios requiring simultaneous viewing of key-value statuses of multiple Topics on a single screen.
 11. System & Dependency Notes
 Designed for Windows desktops (minimum version subject to actual testing; Windows 10 or later recommended).
-Built with Qt and Qt MQTT; release packages typically include required Qt runtime libraries (subject to actual packaging method).
+Built with Qt and Paho; release packages typically include required Qt runtime libraries (subject to actual packaging method).
 Users must prepare an accessible MQTT Broker (e.g., Mosquitto, EMQX, etc.).
