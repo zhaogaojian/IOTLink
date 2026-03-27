@@ -1,4 +1,4 @@
-首先这是个人作品，至于为啥叫山榕，因为是一种多根植物，和物联网有点相同含义，该应用目前完全免费，支持中英文。
+首先这是个人作品，至于为啥叫山榕，因为是一种多根植物，和物联网很相似，该应用目前完全免费，支持中英文。
 First off, this is an original personal work. As for why it’s named Shanrong (Mountain Banyan), it’s a type of plant with an extensive root system, which carries a similar meaning to the Internet of Things.
 
 This Application is Completely Free，Support Chinese and English
