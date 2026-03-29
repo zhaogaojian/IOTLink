@@ -47,6 +47,9 @@ Layout and grid configurations adapt to window resizing to fully utilize the doc
 # 8. Task Management
 <img width="1920" height="1220" alt="image" src="https://github.com/user-attachments/assets/398899cd-b0f6-4a92-88fb-bc2b6afb356b" />
 
+# 9. com debug
+<img width="1920" height="1090" alt="image" src="https://github.com/user-attachments/assets/1b1db3f2-35c2-413d-87ce-0a226dee49b6" />
+
 Manages projects by directory, centrally storing publish trees, subscription statuses, stream rules, connection configurations, etc., for easy environment switching by project or site.
 # 9. Interface & User Experience
 All functions are housed in dockable, tabbed dock panels for side-by-side debugging on dual screens or large windows.
