@@ -49,18 +49,20 @@ Layout and grid configurations adapt to window resizing to fully utilize the doc
 
 # 9. com debug
 <img width="1920" height="1090" alt="image" src="https://github.com/user-attachments/assets/1b1db3f2-35c2-413d-87ce-0a226dee49b6" />
+# 10. scheme sync
+<img width="520" height="1006" alt="image" src="https://github.com/user-attachments/assets/7dece150-d9ec-4e5f-bf12-32bd578297b1" />
 
 Manages projects by directory, centrally storing publish trees, subscription statuses, stream rules, connection configurations, etc., for easy environment switching by project or site.
-# 9. Interface & User Experience
+# 11. Interface & User Experience
 All functions are housed in dockable, tabbed dock panels for side-by-side debugging on dual screens or large windows.
 No blank central area in the main window; left and right workspaces maximize horizontal space utilization.
 Toolbar for quick connections and multiple connection profiles, ideal for switching between multiple Brokers.
-# 10. Application Scenarios
+# 12. Application Scenarios
 MQTT debugging, packet capture, and message verification for IoT devices and gateways.
 Temporary subscription to production/test Brokers by operation and maintenance personnel for health checks.
 Client-side lightweight topic mapping and field rewriting for demonstrations or forwarding.
 Monitoring scenarios requiring simultaneous viewing of key-value statuses of multiple Topics on a single screen.
-11. System & Dependency Notes
+# 13. System & Dependency Notes
 Designed for Windows desktops (minimum version subject to actual testing; Windows 10 or later recommended).
 Built with Qt and Paho; release packages typically include required Qt runtime libraries (subject to actual packaging method).
 Users must prepare an accessible MQTT Broker (e.g., Mosquitto, EMQX, etc.).
