@@ -48,7 +48,8 @@ Layout and grid configurations adapt to window resizing to fully utilize the doc
 <img width="1920" height="1220" alt="image" src="https://github.com/user-attachments/assets/398899cd-b0f6-4a92-88fb-bc2b6afb356b" />
 
 # 9. com debug
-<img width="1920" height="1090" alt="image" src="https://github.com/user-attachments/assets/1b1db3f2-35c2-413d-87ce-0a226dee49b6" />
+<img width="1920" height="1220" alt="image" src="https://github.com/user-attachments/assets/5572ae88-4ec6-49dc-bc4b-18789fe68b05" />
+
 # 10. scheme sync
 <img width="520" height="1006" alt="image" src="https://github.com/user-attachments/assets/7dece150-d9ec-4e5f-bf12-32bd578297b1" />
 
