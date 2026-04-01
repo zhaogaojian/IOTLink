@@ -54,7 +54,8 @@ Layout and grid configurations adapt to window resizing to fully utilize the doc
 <img width="520" height="1006" alt="image" src="https://github.com/user-attachments/assets/7dece150-d9ec-4e5f-bf12-32bd578297b1" />
 
 ## 11. Batch Run
-<img width="874" height="1084" alt="image" src="https://github.com/user-attachments/assets/a1496ce1-511f-4123-99d0-488ae5b67cf8" />
+<img width="846" height="1085" alt="image" src="https://github.com/user-attachments/assets/22c7260e-bb3c-492c-ac5e-28435b44115d" />
+
 
 ## 12. clipbaord decode
 <img width="639" height="515" alt="image" src="https://github.com/user-attachments/assets/db1351a7-0e72-4528-936a-bb93f5f64b4d" />
