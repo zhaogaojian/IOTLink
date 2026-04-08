@@ -1,4 +1,4 @@
-First off, this is an original personal work. As for why it’s named Shanrong (Mountain Banyan), it’s a type of plant with an extensive root system, which carries a similar meaning to the Internet of Things.
+First off, this is an original personal work. As for why it’s named MntFig it’s a type of plant with an extensive root system, which carries a similar meaning to the Internet of Things.
 This Application is Completely Free，Support Chinese and English，If you find it useful, please give it a star. Thank you.
 
 # 一、All Page 
