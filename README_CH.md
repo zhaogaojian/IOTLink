@@ -1,6 +1,5 @@
 # IOTLink 产品说明
-
-![IOTLink 产品能力总览](assets/product-overview.svg)
+<img width="1190" height="640" alt="图片" src="https://github.com/user-attachments/assets/57f9bc5a-08bd-42e6-b8f5-ec331f5c6feb" />
 
 IOTLink 是一套面向物联网、边缘设备和现场运维调试的本地桌面工作台。它把 MQTT 消息联调、SSH 远程终端、SFTP 文件传输、串口 UART、Modbus、HEX 二进制查看、VNC 远程桌面和 AI 辅助分析组织在同一个工作区内，适合研发、测试、交付和运维人员围绕一条完整链路进行排查。
 
@@ -14,7 +13,8 @@ IOTLink 适用于设备侧、边缘侧和云端消息侧同时参与的联调场
 
 ## 主要能力
 
-![IOTLink 功能模块矩阵](assets/module-map.svg)
+![Uploading 图片.png…]()
+
 
 **MQTT 消息调试**  
 支持多 Broker 连接配置、发布、订阅、主题过滤、消息查看、导出、发布前 JS 预处理与流式转换，适合协议联调、载荷验证和规则模拟。
