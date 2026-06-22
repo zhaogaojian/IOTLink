@@ -1,6 +1,7 @@
 # IOTLink Product Overview
 
 <img width="1181" height="634" alt="图片" src="https://github.com/user-attachments/assets/c95c951a-3bb7-4b73-b1aa-a2ddfa7182cc" />
+<img width="684" height="239" alt="图片" src="https://github.com/user-attachments/assets/0c653294-98b5-4c4f-b91c-8641371870fe" />
 
 
 IOTLink is a local desktop workbench for IoT, edge-device, and field operations debugging. It brings MQTT message testing, SSH remote terminals, SFTP file transfer, UART serial debugging, Modbus tools, HEX inspection, VNC remote desktop, and AI-assisted analysis into one workspace. It is designed for engineers, testers, delivery teams, and operations users who need to troubleshoot an end-to-end device-to-cloud chain.
